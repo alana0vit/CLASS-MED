@@ -1,0 +1,8 @@
+# do not commit dataset images or DB
+/data/images/
+/data/embeddings.npy
+/sqlite_db/
+/__pycache__/
+/*.pyc
+.env
+.kaggle/
